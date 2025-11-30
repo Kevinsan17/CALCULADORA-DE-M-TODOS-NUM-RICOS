@@ -2,7 +2,7 @@
              CALCULADORA DE MÉTODOS NUMÉRICOS (Python + GUI)
 ========================================================================
 
-AUTOR: Kevin Japón y Matías Alcocer
+AUTORES: Kevin Japón y Matías Alcocer
 ASIGNATURA: Métodos Numéricos
 FECHA: Noviembre 2025
 
